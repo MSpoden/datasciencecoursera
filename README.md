@@ -3,7 +3,7 @@ Getting and Cleaning Data
 Week 4 Assignment
 
 Files:
-1. README.md
+1. README.md </p>
 2. CodeBook.md
 3. R_Assignment4.r
 
