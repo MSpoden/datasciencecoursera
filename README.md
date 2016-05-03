@@ -6,6 +6,7 @@ Files:</p>
 1. README.md </p>
 2. CodeBook.md</p>
 3. run_analysis.r</p>
+4. tidy.txt</p>
 
 Usage:</p>
 (U need data.table installed)</p>
